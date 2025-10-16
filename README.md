@@ -1,6 +1,5 @@
-# Project Title
+# Web & PDF RAG on LangChain
 
-A small Python project that appears to implement an agent and a retriever component. This repository includes core scripts to configure and run the application, plus example notebooks and saved data.
 
 ## Requirements
 
