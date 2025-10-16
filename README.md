@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Run
 
-Start the main application:
+Edit and start the main application:
 
 ```sh
 python main.py
@@ -31,12 +31,3 @@ python main.py
 - [main.py](main.py) — Entry point for running the application.
 - [retriever_builder.py](retriever_builder.py) — Retriever construction logic.
 - [requirements.txt](requirements.txt) — Python dependencies.
-- [.env](.env) — Environment variables (not committed).
-- [.gitignore](.gitignore) — Git ignore rules.
-- [test.ipynb](test.ipynb) — Example notebook for experiments.
-- [test_save/](test_save/) — Directory for saved test outputs.
-- [__pycache__/](__pycache__/) — Python bytecode cache.
-
-## Contributing
-
-Contributions are welcome — open an issue or submit a pull request.# web-pdf-RAG-LangChain
